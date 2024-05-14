@@ -52,7 +52,5 @@ missing file, and this one is specifically designed for QAs and summaries.
 # Reference 
 Zhaoyue Sun, Jiazheng Li, Gabriele Pergola, Byron Wallace, Bino John, Nigel Greene, Joseph Kim, and Yulan He. 2022. PHEE: A Dataset for Pharmacovigilance Event Extraction from Text. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 5571–5587, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
 
-L. Zanella and Y. Toussaint, "Adding Linguistic Information to Transformer Models Improves Biomedical Event Detection?," 2023 18th Conference on Computer Science and Intelligence Systems (FedCSIS), Warsaw, Poland, 2023, pp. 1211-1216, doi: 10.15439/2023F2076.  ![image](https://github.com/selenasong/Pharmacovigilance-Event-Extraction/assets/127460254/e02d589c-4e44-4d59-ac66-18ae3cc65aba)
-
-
+L. Zanella and Y. Toussaint, "Adding Linguistic Information to Transformer Models Improves Biomedical Event Detection?," 2023 18th Conference on Computer Science and Intelligence Systems (FedCSIS), Warsaw, Poland, 2023, pp. 1211-1216, doi: 10.15439/2023F2076.
  
